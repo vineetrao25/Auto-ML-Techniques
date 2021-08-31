@@ -1,0 +1,7 @@
+pytest
+pycodestyle
+numpy
+sklearn
+matplotlib
+
+# for this exercise you are not allowed to add new packages
